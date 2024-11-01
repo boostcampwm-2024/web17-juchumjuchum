@@ -2,6 +2,9 @@
 
 ![juchumjuchum](https://github.com/user-attachments/assets/5f66cf11-95b4-48a6-8ca4-5e839b45f2d2)
 
+## 참고 자료
+[![image](https://github.com/user-attachments/assets/38ad678d-4eef-4e5e-b151-70dcca6f76bc)](https://dev-sunghwki.notion.site/95d18b1ae29e4cd984d711426efe84f7?pvs=4)
+
 ## 👨‍🎓 팀원 소개
 
 | Backend | Backend | Backend | Frontend |
@@ -21,3 +24,5 @@
 
 
 ##  회의록
+
+
